@@ -19,4 +19,4 @@ Este repositório contém uma planilha de gestão financeira, desenvolvida no Mi
 3. Preencha a aba "Data" com as informações de entradas e saídas financeiras.
 4. Acesse o Dashboard para visualizar gráficos, tabelas dinâmicas e análises automáticas de seus dados.
    
-:keyboard: por Keylla da :orange_heart::blue_heart: CAIXA:package:
+:keyboard: por Tiago da 💙_heart🚙: CAIXA:package:
